@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zeljko Plesac</title>
-    <link>https://you.github.io/</link>
+    <link>https://zplesac.github.io/</link>
     <description>Recent content on Zeljko Plesac</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     
-	<atom:link href="https://you.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://zplesac.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://you.github.io/about/</link>
+      <link>https://zplesac.github.io/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://you.github.io/about/</guid>
+      <guid>https://zplesac.github.io/about/</guid>
       <description>Techical director at Infinum. Experienced Android developer with strong interests in app architecture, frameworks and databases. Fan of Android Studio and open source contribution. Coorganizer of bimonthly Android Meetup in Ljubljana.
 When I&amp;rsquo;m not coding, I like to give talks at various conferences/meetups.</description>
     </item>
     
     <item>
       <title>Blog</title>
-      <link>https://you.github.io/blog/</link>
+      <link>https://zplesac.github.io/blog/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://you.github.io/blog/</guid>
+      <guid>https://zplesac.github.io/blog/</guid>
       <description>I usually write for The Capsized Eight, mostly about Android development related stuff.
  One RecyclerView to rule them all, published on April 20th, 2017 I don&amp;rsquo;t always use the Facebook API, but when I do, everything has changed, published on March 24th, 2015 The past, present and future of Android development, published on March 4th, 2015 Eclipse is dead for Android development and I helped kill it, published on April 3rd, 2014 Android Studio vs.</description>
     </item>
     
     <item>
       <title>Talks</title>
-      <link>https://you.github.io/talks/</link>
+      <link>https://zplesac.github.io/talks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://you.github.io/talks/</guid>
+      <guid>https://zplesac.github.io/talks/</guid>
       <description>SOF Portorož 2018 Droidcon San Francisco 2017 Diggit 2017 Zebra&amp;rsquo;s AppForum Prague 2017 Droidcon Turin 2017 Droidcon London 2016 Droidcon Vienna 2016 Droidcon Zagreb 2016 Droidcon Dubai 2016 JavaSI 2016 DevOps Days Ljubljana 2015  Regular speaker at Android Meetup Ljubljana and Infinum&amp;rsquo;s Android Talks.</description>
     </item>
     

@@ -1,0 +1,42 @@
+baseurl             = "https://zplesac.github.io/"
+builddrafts         = false
+canonifyurls        = true
+contentdir          = "content"
+languageCode        = "en-US"
+layoutdir           = "layouts"
+publishdir          = "public"
+theme               = "cocoa"
+author              = "Zeljko Plesac"
+title               = "Zeljko Plesac"
+pygmentsuseclasses  = true
+pluralizelisttitles = false
+
+[permalinks]
+about  = "about/:slug/"
+
+[[menu.main]]
+name                   = "About"
+weight                 = -120
+identifier             = "about.md"
+url                    = "/about/"
+
+[[menu.main]]
+name                   = "Talks"
+weight                 = -110
+identifier             = "talks"
+url                    = "/talks/"
+
+[[menu.main]]
+name                   = "Blog"
+weight                 = -100
+identifier             = "blog"
+url                    = "/blog/"
+
+[params]
+author                 = "Zeljko Plesac"
+github                 = "//github.com/zplesac"
+linkedin               = "//linkedin.com/in/željko-plesac-01551214/"
+twitter                = "//twitter.com/ZeljkoPlesac"
+gravatar               = "cd706882d1bc0c34a9f4cb51bc98a656" 
+email                  = "zeljko.plesac@infinum.co"
+highlightjs            = true
