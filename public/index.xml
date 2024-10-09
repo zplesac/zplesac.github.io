@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Zeljko Plesac</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in About on Zeljko Plesac</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 09 Oct 2024 17:01:12 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Wed, 09 Oct 2024 17:01:12 +0200</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      
+        <description>&lt;p&gt;Partnerships Director @ &lt;a href=&#34;http://infinum.com&#34;&gt;Infinum&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Having joined the company 12 years ago as an Android developer, I was the Lead mobile developer on several different products for the Financial sector: mobile banking, loyalty, self-care, insurance, and neo-banking applications.&lt;/p&gt;
+&lt;p&gt;Over the years, I&amp;rsquo;ve shifted to more business roles, working closely with the Business Development department as Technical Director and Infinum Alliance Director. In the last couple of years, my main focus has been growing partnership relations with different technical providers, managing clients working in the Finance and IoT industries, and growing our Partner network &lt;a href=&#34;https://alliance.infinum.com&#34;&gt;Infinum Alliance&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>http://localhost:1313/resources/</link>
+      <pubDate>Wed, 09 Oct 2024 16:59:15 +0200</pubDate>
+      
+      <guid>http://localhost:1313/resources/</guid>
+      
+        <description>&lt;p&gt;I usually write for the Infinum blog, lately mostly about &lt;a href=&#34;https://infinum.com/blog/author/zeljko-plesac-571dfd77/&#34;&gt;digital transformation in the FinTech industry&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;You can also find some of the talks I have given at &lt;a href=&#34;https://www.youtube.com/results?search_query=zeljko+plesac&#34;&gt;conferences&lt;/a&gt; and &lt;a href=&#34;https://www.agiledrop.com/podcast/zeljko-plesac-solving-collaboration-challenges-digital-product-development&#34;&gt;podcasts&lt;/a&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Talks</title>
+      <link>http://localhost:1313/talks/</link>
+      <pubDate>Wed, 09 Oct 2024 16:54:52 +0200</pubDate>
+      
+      <guid>http://localhost:1313/talks/</guid>
+      
+        <description>&lt;ul&gt;
+&lt;li&gt;DevFest Ljubljana 2018&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://droidcon.at/schedule/#session-111&#34;&gt;Droidcon Vienna 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://sof.si/trendi-nad-analitiko-custveno-pogojen-razvoj/&#34;&gt;SOF Portorož 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=nS2_byNLXJc&#34;&gt;Droidcon San Francisco 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Diggit 2017&lt;/li&gt;
+&lt;li&gt;Zebra&amp;rsquo;s AppForum Prague 2017&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=9ioc_QrETA4&#34;&gt;Droidcon Turin 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://skillsmatter.com/skillscasts/8685-crash-wars-the-handling-awakens&#34;&gt;Droidcon London 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Droidcon Vienna 2016&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=XRgwzsVi7dQ&#34;&gt;Droidcon Zagreb 2016&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Droidcon Dubai 2016&lt;/li&gt;
+&lt;li&gt;JavaSI 2016&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=G5AfE32pQ5I&#34;&gt;DevOps Days Ljubljana 2015&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Regular speaker at &lt;a href=&#34;https://www.meetup.com/Android-Development-Slovenija/&#34;&gt;Android Meetup Ljubljana&lt;/a&gt; and &lt;a href=&#34;https://infinum.co/our-stuff/android-talks&#34;&gt;Infinum&amp;rsquo;s Android Talks&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Checkout the selection of my slides at my &lt;a href=&#34;https://www.slideshare.net/zplesac&#34;&gt;Slideshare&lt;/a&gt; account.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

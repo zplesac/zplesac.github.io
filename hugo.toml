@@ -1,0 +1,46 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Zeljko Plesac'
+theme = 'anatole'
+
+[params]
+title = "Zeljko Plesac"
+author = "zplesac"
+description = "Partnerships Director @ Infinum"
+profilePicture = "images/profile.jpeg"
+
+[[params.socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/%C5%BEeljko-plesac-01551214/"
+
+[[params.socialIcons]]
+icon = "fab fa-twitter"
+title = "Twitter"
+url = "https://x.com/ZeljkoPlesac"
+
+[[params.socialIcons]]
+icon = "fab fa-github"
+title = "Github"
+url = "https://github.com/zplesac"
+
+[[params.socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:zeljko.plesac@infinum.com"
+
+[menu]
+  [[menu.main]]
+  name = "Home"
+  weight = 1
+  url = "/"
+
+  [[menu.main]]
+  name = "Talks"
+  weight = 2
+  url = "/talks/"
+
+  [[menu.main]]
+  name = "Resources"
+  weight = 3
+  url = "/resources/"
