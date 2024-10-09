@@ -1,5 +1,5 @@
 +++
-title = 'About'
+title = 'Home'
 date = 2024-10-09T17:01:12+02:00
 +++
 

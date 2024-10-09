@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://zplesac.github.io'
 languageCode = 'en-us'
 title = 'Zeljko Plesac'
 theme = 'anatole'
@@ -32,6 +32,7 @@ url = "mailto:zeljko.plesac@infinum.com"
 [menu]
   [[menu.main]]
   name = "Home"
+  identifie = "home"
   weight = 1
   url = "/"
 

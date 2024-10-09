@@ -1,25 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Zeljko Plesac</title>
+    <title>Home on Zeljko Plesac</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in About on Zeljko Plesac</description>
+    <description>Recent content in Home on Zeljko Plesac</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Oct 2024 17:01:12 +0200</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Wed, 09 Oct 2024 17:01:12 +0200</pubDate>
-      
-      <guid>http://localhost:1313/about/</guid>
-      
-        <description>&lt;p&gt;Partnerships Director @ &lt;a href=&#34;http://infinum.com&#34;&gt;Infinum&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;Having joined the company 12 years ago as an Android developer, I was the Lead mobile developer on several different products for the Financial sector: mobile banking, loyalty, self-care, insurance, and neo-banking applications.&lt;/p&gt;
-&lt;p&gt;Over the years, I&amp;rsquo;ve shifted to more business roles, working closely with the Business Development department as Technical Director and Infinum Alliance Director. In the last couple of years, my main focus has been growing partnership relations with different technical providers, managing clients working in the Finance and IoT industries, and growing our Partner network &lt;a href=&#34;https://alliance.infinum.com&#34;&gt;Infinum Alliance&lt;/a&gt;.&lt;/p&gt;</description>
-      
-    </item>
-    
     <item>
       <title>Resources</title>
       <link>http://localhost:1313/resources/</link>
