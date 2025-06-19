@@ -13,4 +13,4 @@ I'm a regular speaker at conferences and meetups, and I write for the Infinum bl
 
 In my free time, I like good books, good hikes, and good diving spots.
 
-I still find time to code,, lastly mostly in Ktor, Django and AppScript in Google Sheets.
+I still find time to code, lastly mostly in Ktor, Django and AppScript in Google Sheets.
