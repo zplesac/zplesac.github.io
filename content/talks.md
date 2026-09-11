@@ -3,6 +3,7 @@ title = 'Talks'
 date = 2024-10-09T16:54:52+02:00
 +++
 
+* WebSi 2026
 * [AI Tech Summit Belgrade 2026](https://aitechsummit-tbm.ai/)
 * DevFest Ljubljana 2018
 * [Droidcon Vienna 2018](https://droidcon.at/schedule/#session-111)
