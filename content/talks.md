@@ -3,6 +3,7 @@ title = 'Talks'
 date = 2024-10-09T16:54:52+02:00
 +++
 
+* DISH Summit 2026
 * WebSi 2026
 * [AI Tech Summit Belgrade 2026](https://aitechsummit-tbm.ai/)
 * DevFest Ljubljana 2018
